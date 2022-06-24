@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @beykerestrada
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning fullstack web development
-- 💞️ I’m looking to collaborate on web development proyects
+- 👀 I’m interested in learning different programming languages
+- 🌱 I’m currently learning HTML, CSS, Javascript
+- 💞️ I’m looking to collaborate on Web and app development
 - 📫 How to reach me beyker.chirino.estrada@gmail.com
 
 <!---
