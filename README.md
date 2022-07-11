@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning different programming languages
 - 🌱 I’m currently learning HTML, CSS, Javascript
 - 💞️ I’m looking to collaborate on Web and app development
-- 📫 How to reach me beyker.chirino.estrada@gmail.com
+- 📫 How to reach me bestrada.web@gmail.com
 
 <!---
 beykerestrada/beykerestrada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
