@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @beykerestrada
-- 👀 I’m interested in learning different programming languages
+- 👀 I’m interested in Fullstack Development, AI, App Development. 
 - 🌱 I’m currently learning HTML, CSS, Javascript
-- 💞️ I’m looking to collaborate on FrontEnd proyects
+- 💞️ I’m looking to collaborate on interesting proyects where i can test myself, share with awesome people, create new things practice my new skills and learn from great developers
 - 📫 How to reach me bestrada.web@gmail.com
 
 <!---
