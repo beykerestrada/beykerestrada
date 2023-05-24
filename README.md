@@ -1,8 +1,4 @@
-- 
-
-https://github.com/beykerestrada/beykerestrada/assets/96588336/4cbb6a2e-5d03-4357-8e7b-efaaf90875d1
-
-
+![Beyker Estrada](https://github.com/beykerestrada/beykerestrada/assets/96588336/3e6e8ffb-eea1-4946-838c-7b8e77508fb3)
 - 
 - 👋 Hi, I’m @beykerestrada
 - 👀 I’m interested in Fullstack Development, AI, App Development. 
