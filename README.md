@@ -1,5 +1,6 @@
-![Beyker Estrada](https://github.com/beykerestrada/beykerestrada/assets/96588336/3e6e8ffb-eea1-4946-838c-7b8e77508fb3)
-- 
+![Beyker Estada](https://github.com/beykerestrada/beykerestrada/assets/96588336/5bf64a00-c9be-46c6-b635-fe0ce66e56c3)
+
+
 - 👋 Hi, I’m @beykerestrada
 - 👀 I’m interested in Fullstack Development, AI, App Development. 
 - 🌱 I’m currently learning HTML, CSS, Javascript
